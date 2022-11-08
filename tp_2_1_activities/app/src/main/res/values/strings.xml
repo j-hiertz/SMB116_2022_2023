@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tp_2_1_activities</string>
+    <string name="start_activity_2">Start Activity 2</string>
+    <string name="finish">finish</string>
+    <string name="mainactivity">MainActivity</string>
+    <string name="seconde_activity">Seconde Activity</string>
+</resources>
