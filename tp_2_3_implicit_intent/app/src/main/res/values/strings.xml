@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP_2_3_implicit_intent</string>
+    <string name="open_website">OPEN WEBSITE</string>
+    <string name="open_location">OPEN LOCATION</string>
+    <string name="share_text">SHARE TEXT</string>
+    <string name="take_a_photo">Take a photo</string>
+</resources>
