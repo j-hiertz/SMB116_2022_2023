@@ -9,7 +9,8 @@
         android:id="@+id/firstFragment"
         android:name="com.jhi.tp_3_4_navigation.FirstFragment"
         android:label="fragment_first"
-        tools:layout="@layout/fragment_first" />
+        tools:layout="@layout/fragment_first" >
+    </fragment>
 
     <fragment
         android:id="@+id/secondFragment"
@@ -22,4 +23,9 @@
         android:name="com.jhi.tp_3_4_navigation.ThirdFragment"
         android:label="fragment_third"
         tools:layout="@layout/fragment_third" />
+    <fragment
+        android:id="@+id/blankFragment"
+        android:name="com.jhi.tp_3_4_navigation.BlankFragment"
+        android:label="fragment_blank"
+        tools:layout="@layout/fragment_blank" />
 </navigation>
