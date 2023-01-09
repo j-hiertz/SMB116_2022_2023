@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tp_4_2_shared_preferences</string>
+    <string name="count">Count</string>
+    <string name="reset">Reset</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="black">Black</string>
+</resources>
