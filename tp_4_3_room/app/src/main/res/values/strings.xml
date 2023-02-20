@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tp_4_3_room</string>
+    <string name="new_text">Enter new word</string>
+    <string name="delete_all">Delete all</string>
+</resources>
